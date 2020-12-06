@@ -1,2 +1,2 @@
 # front-project
-project with only css3 , html5 and bootstrap4 
+project with only html5 , css3  and bootstrap4 
